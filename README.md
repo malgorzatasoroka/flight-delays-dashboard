@@ -53,5 +53,5 @@ The dashboard was designed to support operational reporting and performance moni
 
 ---
 
-## Power BI Dashboard
-(Add Power BI link here)
+## Dashboard Export
+[Download PDF Dashboard](flight_delays_dashboard.pdf)
