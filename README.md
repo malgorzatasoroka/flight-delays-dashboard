@@ -34,7 +34,15 @@ The dashboard was designed to support operational reporting and performance moni
 ---
 
 ## Dashboard Preview
-(Add dashboard screenshots here)
+
+### Overview Dashboard
+![Overview Dashboard](overview_dashboard.png)
+
+### Airport Details Dashboard
+![Airport Details Dashboard](airport_details_dashboard.png)
+
+### Weather Impact Dashboard
+![Weather Impact Dashboard](weather_impact_dashboard.png)
 
 ---
 
